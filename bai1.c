@@ -55,5 +55,4 @@ int main(){
 
 
     // Xử lý, tính toán VÀ Hiển thị kết quả
-git config --global user.name "dinhminhcuong27112007-ctrl"
-git config --global user.email "dinhminhcuong27112007@gmail.com"
+
